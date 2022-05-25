@@ -17,9 +17,9 @@
 Отображение посредством HTML + Thymeleaf.
 
 Cписок студентов:
-<img src="C:\Users\Kolesov Sergey\Desktop\picture1.png">
+![image_text](https://github.com/kolesovv/doczilla-crud/blob/3ffe906891416a52ef1b54bd3e7f43bf844960da/src/main/resources/img.png)
 Форма добавления:
-<img src="C:\Users\Kolesov Sergey\Desktop\picture2.png">
+![image_text](https://github.com/kolesovv/doczilla-crud/blob/3ffe906891416a52ef1b54bd3e7f43bf844960da/src/main/resources/img_1.png)
 
 API:
 * GET api/v2/student/all - получнение списка студентов
